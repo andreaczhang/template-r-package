@@ -12,6 +12,6 @@
     "PACKAGE ",
     version,
     "\n",
-    "https://docs.sykdomspulsen.no/PACKAGE"
+    "https://docs.sykdomspulsen.no/PACKAGE/"
   ))
 }
